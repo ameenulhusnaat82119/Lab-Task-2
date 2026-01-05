@@ -1,2 +1,2 @@
 # Lab-Task-2
-My second repository
+program using Escape sequence, cin, cout
